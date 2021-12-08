@@ -1,5 +1,6 @@
 package com.avian.coppermod;
 
+import com.avian.coppermod.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -31,6 +32,8 @@ public class CopperMod {
     public CopperMod() {
         // Register the setup method for modloading
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(eventBus);
 
         eventBus.addListener(this::setup);
 
