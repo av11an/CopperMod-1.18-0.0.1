@@ -1,5 +1,7 @@
 {
   "item.coppermod.cobber_ingot": "Cobber Ingot",
   "item.coppermod.raw_cobber": "Raw Cobber",
-  "item.coppermod.cobber_nugget": "Cobber Nugget"
+  "item.coppermod.cobber_nugget": "Cobber Nugget",
+  "block.coppermod.cobber_block": "Cobber Block",
+  "block.coppermod.cobber_ore": "Cobber Ore"
 }
