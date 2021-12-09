@@ -15,6 +15,12 @@ public class ModItems {
     public static final RegistryObject<Item> COBBER_INGOT = ITEMS.register( "cobber_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> RAW_COBBER = ITEMS.register( "raw_cobber",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> COBBER_NUGGET = ITEMS.register( "cobber_nugget",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
