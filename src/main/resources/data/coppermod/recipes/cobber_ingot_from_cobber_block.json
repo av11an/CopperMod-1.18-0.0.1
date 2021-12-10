@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coppermod:cobber_block"
+    }
+  ],
+  "result": {
+    "item": "coppermod:cobber_ingot",
+    "count": 9
+  }
+}
