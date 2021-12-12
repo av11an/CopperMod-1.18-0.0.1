@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "coppermod:raw_gcb"
+  },
+  "result": "coppermod:cooked_gcb",
+  "experience": 0.50,
+  "cookingtime": 200
+}

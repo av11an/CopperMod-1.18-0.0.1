@@ -4,5 +4,14 @@
   "item.coppermod.cobber_nugget": "Cobber Nugget",
   "block.coppermod.cobber_block": "Cobber Block",
   "block.coppermod.cobber_ore": "Cobber Ore",
-  "itemGroup.copperModTab": "Cobber Mod"
+  "itemGroup.copperModTab": "Cobber Mod",
+
+  "item.coppermod.raw_gcb": "Raw Grilled Cheese Burrito",
+  "item.coppermod.cooked_gcb": "Cooked Grilled Cheese Burrito",
+
+  "item.coppermod.copper_sword": "Copper Sword",
+  "item.coppermod.copper_pickaxe": "Copper Pickaxe",
+  "item.coppermod.copper_axe": "Copper Axe",
+  "item.coppermod.copper_shovel": "Copper Shovel",
+  "item.coppermod.copper_hoe": "Copper Hoe"
 }
